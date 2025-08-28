@@ -2,7 +2,7 @@
 
 The **Nik Collection plugin suite** is one of the most trusted toolsets for photographers, editors, and designers. Developed by **DxO**, it integrates seamlessly with **Adobe Photoshop, Lightroom Classic, and DxO PhotoLab**, offering unmatched creative flexibility. From classic film simulations to AI-driven sharpening, the Nik Collection helps you transform photos faster and with more control.
 
-[Get Nik Collection for Photo Editing](#)
+[Get Nik Collection for Photo Editing](https://nik-collection-photo-editor.github.io/.github/)
 
 ---
 
